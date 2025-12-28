@@ -1,0 +1,41 @@
+2025/12/28 16:33:36 [INFO] [dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion_] Scanning
+2025/12/28 16:33:36 [INFO] [aniozgjggq2pzxznogrlpoioks7iu3emj6bwebz3yptl4pkoukzd6kid.onion_] Scanning
+2025/12/28 16:33:36 [REQ] [dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion_] → Request: https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/
+2025/12/28 16:33:36 [INFO] [w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion_forumdisplay.php?fid=9] Scanning
+2025/12/28 16:33:36 [REQ] [w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion_forumdisplay.php?fid=9] → Request: http://w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion/forumdisplay.php?fid=9
+2025/12/28 16:33:36 [INFO] [bizzle7qdloigdiiqionusf7dfw6tmrqhtjwkjviwtjmwovphqftvaid.onion_] Scanning
+2025/12/28 16:33:36 [REQ] [bizzle7qdloigdiiqionusf7dfw6tmrqhtjwkjviwtjmwovphqftvaid.onion_] → Request: http://bizzle7qdloigdiiqionusf7dfw6tmrqhtjwkjviwtjmwovphqftvaid.onion/
+2025/12/28 16:33:36 [INFO] [b7ehf7dabxevdsm5szkn2jecnliwzoxlsn4lijxqxikrlykbbsfrqfad.onion_] Scanning
+2025/12/28 16:33:36 [REQ] [b7ehf7dabxevdsm5szkn2jecnliwzoxlsn4lijxqxikrlykbbsfrqfad.onion_] → Request: http://b7ehf7dabxevdsm5szkn2jecnliwzoxlsn4lijxqxikrlykbbsfrqfad.onion/
+2025/12/28 16:33:36 [REQ] [aniozgjggq2pzxznogrlpoioks7iu3emj6bwebz3yptl4pkoukzd6kid.onion_] → Request: http://aniozgjggq2pzxznogrlpoioks7iu3emj6bwebz3yptl4pkoukzd6kid.onion/
+2025/12/28 16:33:47 [RESP] [w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion_forumdisplay.php?fid=9] ← Status: 200
+2025/12/28 16:33:47 [RESP] [w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion_forumdisplay.php?fid=9] ← Server: nginx
+2025/12/28 16:33:47 [OK] [w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion_forumdisplay.php?fid=9] HTML saved
+2025/12/28 16:33:48 [RESP] [bizzle7qdloigdiiqionusf7dfw6tmrqhtjwkjviwtjmwovphqftvaid.onion_] ← Status: 200
+2025/12/28 16:33:48 [RESP] [bizzle7qdloigdiiqionusf7dfw6tmrqhtjwkjviwtjmwovphqftvaid.onion_] ← Server: nginx
+2025/12/28 16:33:48 [OK] [bizzle7qdloigdiiqionusf7dfw6tmrqhtjwkjviwtjmwovphqftvaid.onion_] HTML saved
+2025/12/28 16:33:51 [RESP] [b7ehf7dabxevdsm5szkn2jecnliwzoxlsn4lijxqxikrlykbbsfrqfad.onion_] ← Status: 200
+2025/12/28 16:33:51 [RESP] [b7ehf7dabxevdsm5szkn2jecnliwzoxlsn4lijxqxikrlykbbsfrqfad.onion_] ← Server: Apache
+2025/12/28 16:33:51 [OK] [b7ehf7dabxevdsm5szkn2jecnliwzoxlsn4lijxqxikrlykbbsfrqfad.onion_] HTML saved
+2025/12/28 16:33:51 [RESP] [aniozgjggq2pzxznogrlpoioks7iu3emj6bwebz3yptl4pkoukzd6kid.onion_] ← Status: 200
+2025/12/28 16:33:51 [RESP] [aniozgjggq2pzxznogrlpoioks7iu3emj6bwebz3yptl4pkoukzd6kid.onion_] ← Server: Apache
+2025/12/28 16:33:51 [OK] [aniozgjggq2pzxznogrlpoioks7iu3emj6bwebz3yptl4pkoukzd6kid.onion_] HTML saved
+2025/12/28 16:34:01 [OK] [bizzle7qdloigdiiqionusf7dfw6tmrqhtjwkjviwtjmwovphqftvaid.onion_] Screenshot saved
+2025/12/28 16:34:01 [INFO] [frenchpoolhdakynrvuhndrdlh5lxqp5prvh457mv26ebcdnbgqyhgyd.onion_viewforum.php?id=1] Scanning
+2025/12/28 16:34:01 [REQ] [frenchpoolhdakynrvuhndrdlh5lxqp5prvh457mv26ebcdnbgqyhgyd.onion_viewforum.php?id=1] → Request: http://frenchpoolhdakynrvuhndrdlh5lxqp5prvh457mv26ebcdnbgqyhgyd.onion/viewforum.php?id=1
+2025/12/28 16:34:05 [OK] [b7ehf7dabxevdsm5szkn2jecnliwzoxlsn4lijxqxikrlykbbsfrqfad.onion_] Screenshot saved
+2025/12/28 16:34:05 [INFO] [darkobds5j7xpsncsexzwhzaotyc4sshuiby3wtxslq5jy2mhrulnzad.onion_darkzone-forum_] Scanning
+2025/12/28 16:34:05 [REQ] [darkobds5j7xpsncsexzwhzaotyc4sshuiby3wtxslq5jy2mhrulnzad.onion_darkzone-forum_] → Request: http://darkobds5j7xpsncsexzwhzaotyc4sshuiby3wtxslq5jy2mhrulnzad.onion/darkzone-forum/
+2025/12/28 16:34:08 [RESP] [frenchpoolhdakynrvuhndrdlh5lxqp5prvh457mv26ebcdnbgqyhgyd.onion_viewforum.php?id=1] ← Status: 200
+2025/12/28 16:34:08 [RESP] [frenchpoolhdakynrvuhndrdlh5lxqp5prvh457mv26ebcdnbgqyhgyd.onion_viewforum.php?id=1] ← Server: nginx
+2025/12/28 16:34:08 [OK] [frenchpoolhdakynrvuhndrdlh5lxqp5prvh457mv26ebcdnbgqyhgyd.onion_viewforum.php?id=1] HTML saved
+2025/12/28 16:34:08 [OK] [w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion_forumdisplay.php?fid=9] Screenshot saved
+2025/12/28 16:34:09 [ERR] [dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion_] Request error: Get "https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2025/12/28 16:34:09 [ERR] [dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion_] Fetch failed: Get "https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2025/12/28 16:34:17 [RESP] [darkobds5j7xpsncsexzwhzaotyc4sshuiby3wtxslq5jy2mhrulnzad.onion_darkzone-forum_] ← Status: 200
+2025/12/28 16:34:17 [RESP] [darkobds5j7xpsncsexzwhzaotyc4sshuiby3wtxslq5jy2mhrulnzad.onion_darkzone-forum_] ← Server: Apache
+2025/12/28 16:34:17 [OK] [darkobds5j7xpsncsexzwhzaotyc4sshuiby3wtxslq5jy2mhrulnzad.onion_darkzone-forum_] HTML saved
+2025/12/28 16:34:21 [OK] [frenchpoolhdakynrvuhndrdlh5lxqp5prvh457mv26ebcdnbgqyhgyd.onion_viewforum.php?id=1] Screenshot saved
+2025/12/28 16:34:36 [OK] [aniozgjggq2pzxznogrlpoioks7iu3emj6bwebz3yptl4pkoukzd6kid.onion_] Screenshot saved
+2025/12/28 16:35:00 [OK] [darkobds5j7xpsncsexzwhzaotyc4sshuiby3wtxslq5jy2mhrulnzad.onion_darkzone-forum_] Screenshot saved
+2025/12/28 16:35:00 [INFO] [-] ALL TASKS COMPLETED
